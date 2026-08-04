@@ -1,5 +1,2 @@
 pyTelegramBotAPI==4.26.0
 requests==2.31.0
-curl_cffi==0.5.10
-playwright==1.40.0
-faster-whisper==0.10.0
