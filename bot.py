@@ -59,7 +59,7 @@ PLAYWRIGHT_INSTALLED = install_playwright_browsers()
 # ══════════════════════════════════════════════════════════════
 #  Конфигурация
 # ══════════════════════════════════════════════════════════════
-BOT_TOKEN = "8375307142:AAFEeNLKG7TzAAG03L4Ma0OVfpJzS1UrLKA"
+BOT_TOKEN = ""
 WEBSHARE_SITEKEY = "6LeHZ6UUAAAAAKat_YS--O2tj_by3gv3r_l03j9d"
 WEBSHARE_REGISTER_URL = "https://proxy.webshare.io/register"
 API_BASE = "https://proxy.webshare.io/api/v2"
